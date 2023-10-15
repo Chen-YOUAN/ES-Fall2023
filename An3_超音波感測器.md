@@ -79,3 +79,9 @@ void loop()
 ```
 
 ## Lab 3-3: Arudino常用的C語言程式介紹與實作
+
+### 電路 & Demo
+
+https://github.com/Chen-YOUAN/ES-Fall2023/assets/144580734/f6c445a6-90da-4287-949d-545ea6d3fe53
+
+### 程式
